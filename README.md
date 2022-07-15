@@ -1,2 +1,2 @@
 # breakout-rs
-A simple breakout game using Rust and rxRust
+A simple breakout game written in Rust
